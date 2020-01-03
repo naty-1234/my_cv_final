@@ -1,0 +1,72 @@
+nav{
+    background-color:#9C27B0;
+
+}
+
+nav .nav-wrapper {
+    border-top: 5px solid #7B1FA2;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.page-footer{
+     background-color:#9C27B0;
+}
+.footer-copyright{
+    background-color: #7B1FA2!important;
+}
+.mi_logo{
+    width: 160px
+
+}
+.imagen_perfil{
+    width: 250px;
+    border-radius: 50%;
+}
+.nombre{
+    color: white;
+    margin-top: 10%
+}
+.parallax_custom_color{
+    background:#4CAF50;
+}
+.imagen_parallax{
+    opacity: 0.8!important;
+}
+.elementos_centrados{
+    text-align: center;
+}
+
+.imagen_conoceme{
+    border:#7B1FA2 dashed 2px ;
+    padding: 15px;
+}
+
+h2 span{
+    border: dotted 5px blueviolet;
+}
+
+.tam_curso{
+    width: 500px;   
+}
+
+.fab{
+    font-size: 300px;
+
+}
+.fa-instagram:before{
+    color:#f70441
+
+}
+.fa-whatsapp-square:before{
+    color:rgb(30, 255, 0)
+
+}
